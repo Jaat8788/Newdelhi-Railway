@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Delhi Station Game",
+    "slug": "delhi-railway-station",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.hemant.delhistation"
+    }
+  }
+}
